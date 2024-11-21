@@ -34,6 +34,11 @@ body {
   justify-content: center;
   padding-top: 10px;
 }
+.title h1{
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+}
 
 .search-section {
   display: flex;
@@ -149,9 +154,10 @@ body.show-no-results .weather-section {
 }
 
 .current-weather .temperature {
-  font-size: 3.38rem;
+  font-size: 5rem;
   margin: 23px 0;
   display: flex;
+  color: #fff;
 }
 
 .current-weather .temperature span {
@@ -163,6 +169,7 @@ body.show-no-results .weather-section {
 .current-weather .description {
   font-weight: 500;
   font-size: 1.25rem;
+  color: #fff;
 }
 
 .hourly-weather {
