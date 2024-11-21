@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5f41e4;
+  background: #6a4deb;
 }
 
 .container {
@@ -22,7 +22,7 @@ body {
   max-width: 425px;
   border-radius: 10px;
   position: relative;
-  background: #92bed8;
+  background: #a0beeb;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 .title{
